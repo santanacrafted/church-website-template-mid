@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "church-app-template"
+    "default": "church-app-template-64ef2"
+  },
+  "targets": {
+    "church-app-template-64ef2": {
+      "hosting": {
+        "alt-app": [
+          "church-app-template-64ef2-2c470"
+        ]
+      }
+    }
   }
 }
