@@ -26,7 +26,7 @@ import { TranslateService, TranslateModule } from '@ngx-translate/core';
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  title = 'church-website-template-basic';
+  title = 'church-website-template-mid';
   logoUrl = '/logos/church-logo.png';
   translationsReady = false;
 
