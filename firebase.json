@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "church-app-template-648f2",
     "public": "dist/church-website-template-mid/browser",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
