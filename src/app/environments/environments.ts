@@ -6,7 +6,7 @@ export const environment = {
     projectId: 'church-app-template-64ef2',
     storageBucket: 'church-app-template-64ef2.firebasestorage.app',
     messagingSenderId: '570171072726',
-    appId: '1:570171072726:web:a3673708856d74f6426977',
-    measurementId: 'G-6HM4P606V7',
+    appId: '1:570171072726:web:d9c08f27596a09f7426977',
+    measurementId: 'G-QQ8M5QZQ0Z',
   },
 };
